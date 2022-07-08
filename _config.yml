@@ -1,0 +1,42 @@
+title: "entewurzelauskuh"
+author: "entewurzelauskuh"
+description: "Mein Blog, mein Blog." # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
+
+# Email / Social media user names used by the minima theme:
+# All of these are optional and can be removed or commented out
+email: "thisisnot@avalidmailaddress.com"
+twitter_username: "entewurzelauskuh"
+github_username: "entewurzelauskuh"
+linkedin_username: "entewurzelauskuh"
+facebook_username: "entewurzelauskuh"
+flickr_username: "entewurzelauskuh"
+instagram_username: "entewurzelauskuh"
+pinterest_username: "entewurzelauskuh"
+youtube_username: "entewurzelauskuh"
+googleplus_username: ""+entewurzelauskuh"
+
+#########################################################################################
+######### Nothing below needs to be changed (unless you know what you're doing) #########
+#########################################################################################
+theme: "minima"
+
+rss: rss
+
+kramdown:
+  syntax_highlighter_opts:
+    disable: true
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+titles_from_headings:
+  strip_title: true
+  collections: true
+
+defaults:
+  - scope:
+      path: ""
+      type: post
+    values:
+      tags: Other
