@@ -2,7 +2,13 @@
 
 * Spiel: [Slay the Spire](https://store.steampowered.com/app/646570/Slay_the_Spire/)
 * Spielzeit zum Zeitpunkt des Ersteindrucks: 8.5 hrs on record
-* Rating: [joke](_assets\rating\joke_fill.jpg)[joke](_assets\rating\joke_fill.jpg)[joke](_assets\rating\joke_fill.jpg)[joke](_assets\rating\joke.jpg)[joke](_assets\rating\joke.jpg)
+
+Rating:
+![head](https://raw.githubusercontent.com/entewurzelauskuh/entewurzelauskuh.github.io/refs/heads/main/_assets/rating/head_fill.png)
+![head](https://raw.githubusercontent.com/entewurzelauskuh/entewurzelauskuh.github.io/refs/heads/main/_assets/rating/head_fill.png)
+![head](https://raw.githubusercontent.com/entewurzelauskuh/entewurzelauskuh.github.io/refs/heads/main/_assets/rating/head_fill.png)
+![head](https://raw.githubusercontent.com/entewurzelauskuh/entewurzelauskuh.github.io/refs/heads/main/_assets/rating/head.png)
+![head](https://raw.githubusercontent.com/entewurzelauskuh/entewurzelauskuh.github.io/refs/heads/main/_assets/rating/head.png)
 
 Vor kurzem musste ich mal wieder verreisen. Ich hab letztens bemerkt, dass es Balatro mittlerweile auch für das Smartphone gibt, und seitdem habe ich offen gestanden ein echtes Problem mit diesem Zeitfresser. Wenn ich zurückdenke kann ich meine Handyspiele, die ich ernsthaft mal gespielt habe an einer Hand abzählen, aber darum soll es eigentlich gar nicht gehen. Slay The Spire! Ich war eigentlich auf der Suche nach Spielen, die ich auf meinem Linux-Laptop auf der Reise spielen konnte. Parallel sah ich gerade mal wieder Werbung für das noch recht neu erschienene Slay the Spire-Brettspiel, und da ich sowieso gerade dabei war in Kartenspielen völlig jeglichen Verstand zu verlieren suchte ich nach Slay the Spire in meiner Steam Bibliothek. Dank dem erstklassigen Steam family feature fand ich eine verknüpfte Version, die auch noch für Linux lief - perfekt also. Warum nicht einfach schon mal starten und gucken worum es eigentlich geht, nur so ne kleine Runde ... ? 👀
 
