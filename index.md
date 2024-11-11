@@ -1,5 +1,6 @@
 [Mein Blog, mein Blog](https://www.youtube.com/watch?v=0UKtOhLVeyA)!
 
-Proudly made with PHP, Java, Perl, MySQL and probably Postgres somewhere, too.
+Ich teile hier meine Gedanken, meistens etwas zu Video- oder Brettspielen. Unter anderem habe ich Diablo 3 für die Story
+gespielt und danach nie wieder angefasst. Wer sich damit identifizieren kann, den könnte alles Weitere vielleicht auch interessieren.
 
-Ich teile hier irgendwelche Gedanken, meistens etwas zu Video- oder Brettspielen.
+Proudly made with AI, Blockchain, PHP, Java, Perl, MySQL and probably Postgres somewhere, too.
