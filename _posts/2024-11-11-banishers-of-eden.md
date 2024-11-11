@@ -4,11 +4,11 @@
 * Spielzeit zum Zeitpunkt des Ersteindrucks: Bestimmt so um die 4hrs on record
 
 Big Tasty Rating:
-![head](https://raw.githubusercontent.com/entewurzelauskuh/entewurzelauskuh.github.io/refs/heads/main/_assets/rating/witcher_fill.jpg)
-![head](https://raw.githubusercontent.com/entewurzelauskuh/entewurzelauskuh.github.io/refs/heads/main/_assets/rating/witcher_fill.jpg)
-![head](https://raw.githubusercontent.com/entewurzelauskuh/entewurzelauskuh.github.io/refs/heads/main/_assets/rating/witcher.jpg)
-![head](https://raw.githubusercontent.com/entewurzelauskuh/entewurzelauskuh.github.io/refs/heads/main/_assets/rating/witcher.jpg)
-![head](https://raw.githubusercontent.com/entewurzelauskuh/entewurzelauskuh.github.io/refs/heads/main/_assets/rating/witcher.jpg)
+![head](https://raw.githubusercontent.com/entewurzelauskuh/entewurzelauskuh.github.io/refs/heads/main/_assets/rating/witcher_fill.png)
+![head](https://raw.githubusercontent.com/entewurzelauskuh/entewurzelauskuh.github.io/refs/heads/main/_assets/rating/witcher_fill.png)
+![head](https://raw.githubusercontent.com/entewurzelauskuh/entewurzelauskuh.github.io/refs/heads/main/_assets/rating/witcher.png)
+![head](https://raw.githubusercontent.com/entewurzelauskuh/entewurzelauskuh.github.io/refs/heads/main/_assets/rating/witcher.png)
+![head](https://raw.githubusercontent.com/entewurzelauskuh/entewurzelauskuh.github.io/refs/heads/main/_assets/rating/witcher.png)
 
 Banishers also, das Spiel, was ich irgendwie immer mit Enshrouded verwechsle, welches ich übrigens eher doof
 fand. In Banishers sind wir also in der Zeit der amerikanischen Kolonialisierung unterwegs, mit einem gruseligen Unterton à la The Witch (der Film
