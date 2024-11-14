@@ -1,7 +1,7 @@
 # Ersteindruck: Banishers: Ghosts of New Eden
 
 * Spiel: [Banishers: Ghosts of New Eden](https://store.steampowered.com/agecheck/app/1493640/)
-* Spielzeit zum Zeitpunkt des Ersteindrucks: Bestimmt so um die 4hrs on record
+* Spielzeit zum Zeitpunkt des Ersteindrucks: ~4 hrs on record
 
 Big Tasty Rating:
 ![head](https://raw.githubusercontent.com/entewurzelauskuh/entewurzelauskuh.github.io/refs/heads/main/_assets/rating/witcher.png)
